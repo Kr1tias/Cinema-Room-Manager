@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Floating-point types/Find X/out/
+/Topics/Floating-point types/Find X/out/production/classes/
+/Topics/For loop and lists/Circular shift/out/
+/Topics/For loop and lists/Circular shift/out/production/classes/
+/Topics/Taming exceptions/Handle arithmetic exception/out/
+/Topics/Taming exceptions/Handle arithmetic exception/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
+/Topics/The try-catch-finally statement/Parting words/out/
+/Topics/The try-catch-finally statement/Parting words/out/production/classes/
